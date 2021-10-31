@@ -105,4 +105,4 @@ JsonConverter.JsonOptions.EscapeSolidus = True
 
 ## Resources
 
-- [Tutorial Video (Red Stapler)](https://youtu.be/CFFLRmHsEAs)
+
